@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/sfLQgGWc+92laDhENWbsz5Z/k2Ee2HIZwSrlWMpsabawep5GeVQY5iB6AAs4IKyZ2MEUNOEnoSrczZlriWD4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\christian.perin\\source\\repos\\WebGeradorMassaDados\\WebGeradorMassaDados\\WebGeradorMassaDados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\christian.perin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\christian.perin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\christian.perin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\christian.perin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\christian.perin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\christian.perin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\christian.perin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
